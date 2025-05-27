@@ -36,6 +36,12 @@ I was learning Distributed Systems, from MIT(Spring 2020) and i needed to know G
 1. Iteration over map, array etc.
 2. Traditional iteration like C
 3. while loop 
-- Strings [tutorial6]
+- Other Data Types[tutorial6]
 1. UTF-8 encoding
 2. Strings, Bytes, Runes and their differences
+
+# DAY 4:
+- [tutorial7]
+1. Custom Type creation
+2. Structs and methods on them - Mimic Class,Objects
+3. Interfaces - Polymorphism example
