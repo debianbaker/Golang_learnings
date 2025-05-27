@@ -30,3 +30,12 @@ I was learning Distributed Systems, from MIT(Spring 2020) and i needed to know G
 1. Array - Declaration/Initialisation
 2. Splice - creating using an array, initializing using 'make'; Length Vs Capacity
 3. Map - creation, deletion.
+
+# DAY3:
+- Loops - Only 'for' in Go - [tutorial5]
+1. Iteration over map, array etc.
+2. Traditional iteration like C
+3. while loop 
+- Strings [tutorial6]
+1. UTF-8 encoding
+2. Strings, Bytes, Runes and their differences
