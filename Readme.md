@@ -45,3 +45,8 @@ I was learning Distributed Systems, from MIT(Spring 2020) and i needed to know G
 1. Custom Type creation
 2. Structs and methods on them - Mimic Class,Objects
 3. Interfaces - Polymorphism example
+
+# DAY 5:
+- [tutorial8]
+1. Pointers
+2. Slices, Arrays difference in terms of passing
